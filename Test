@@ -1,11 +1,4 @@
-<?php
-/*
-Template Name: Homepage
-*/
-?>
-
-<?php get_header(); ?>
-			
-echo'HELLO'    
-			
-<?php get_footer(); ?>
+hello
+hey
+hiii
+test
